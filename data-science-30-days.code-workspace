@@ -8,6 +8,9 @@
         },
         {
             "path": "PythonBasics"
+        },
+        {
+            "path": "Data-collection-and-manipulation"
         }
     ]
 }
