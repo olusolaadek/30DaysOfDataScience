@@ -12,5 +12,8 @@
         {
             "path": "Data-collection-and-manipulation"
         }
-    ]
+    ],
+    "settings": {
+        "notebook.output.textLineLimit": 50
+    }
 }
